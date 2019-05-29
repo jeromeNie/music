@@ -1,0 +1,165 @@
+{
+    "sliderList": [
+        {
+            "clickUrl": "https://music.163.com/#/playlist?id=2808131578",
+            "desc": "korean",
+            "image": "https://p1.music.126.net/YR1qhJ6Ad12vlIu_t2fXKw==/109951164096955552.jpg",
+            "bgColor": "#EFF4FA"
+        },
+        {
+            "clickUrl": "https://music.163.com/m/at/5ce51d835d3e15847c45bc7b?is_selfmade=1&self_act",
+            "desc": "宫野真守",
+            "image": "https://p1.music.126.net/byS3IX3cxtO_ocjzdwhJdg==/109951164096950652.jpg",
+            "bgColor": "#65A5AF"
+        },
+        {
+            "clickUrl": "https://music.163.com/#/song?id=1367414244",
+            "desc": "黎明",
+            "image": "https://p1.music.126.net/Vee2hamneidRWivki3q7lw==/109951164097796012.jpg",
+            "bgColor": "#22211F"
+        },
+        {
+            "clickUrl": "https://music.163.com/#/song?id=1367213091",
+            "desc": "不才",
+            "image": "https://p1.music.126.net/5sDKSVsALGDnucUNze3VVA==/109951164096937816.jpg",
+            "bgColor": "#E5F2EB"
+        },
+        {
+            "clickUrl": "https://music.163.com/#/mv?id=10869241",
+            "desc": "可苦可乐",
+            "image": "https://p1.music.126.net/eOK1aZ--pH4FVjbZdhNG-Q==/109951164096933434.jpg",
+            "bgColor": "#FDFDFD"
+        },
+        {
+            "clickUrl": "https://music.163.com/#/song?id=1366519396",
+            "desc": "STRSTRK",
+            "image": "https://p1.music.126.net/6YD6E0TbWbhF9f1MRmpDRA==/109951164096934111.jpg",
+            "bgColor": "#000611"
+        },
+        {
+            "clickUrl": "https://music.163.com/#/album?id=78952229",
+            "desc": "时间木马",
+            "image": "https://p1.music.126.net/aIlIdJj4ou8vFQZZKR0E7Q==/109951164096929878.jpg",
+            "bgColor": "#F7F7F7"
+        }
+    ],
+    "songs": [
+        {
+            "songsUrl": "https://music.163.com/#/playlist?id=2811289513",
+            "image": "../../../../static/image/one.jpg",
+            "introduce": "入耳即化，轻吟浅唱拥抱少年心事",
+            "playTimes": 123423,
+            "desc": "1"
+        },
+        {
+            "songsUrl": "https://music.163.com/#/playlist?id=2804826732",
+            "image": "../../../../static/image/two.jpg",
+            "introduce": "今日份告白，爱你是终身浪漫的开始",
+            "playTimes": 156745,
+            "desc": "2"
+        },
+        {
+            "songsUrl": "https://music.163.com/#/playlist?id=2521713081",
+            "image": "../../../../static/image/three.jpg",
+            "introduce": "云村热歌，评论10w+(全收录)",
+            "playTimes": 12345,
+            "desc": "3"
+        },
+        {
+            "songsUrl": "https://music.163.com/#/dj?id=2061286458",
+            "image": "../../../../static/image/four.jpg",
+            "introduce": "Vol.426,成熟的人没有委屈",
+            "playTimes": 2345453,
+            "desc": "4",
+            "radio": true
+        },
+        {
+            "songsUrl": "https://music.163.com/#/playlist?id=310970433",
+            "image": "../../../../static/image/five.jpg",
+            "introduce": "【旋律控】超级好听的欧美良曲",
+            "playTimes": 2343,
+            "desc": "5"
+        },
+        {
+            "songsUrl": "https://music.163.com/#/dj?id=2061290686",
+            "image": "../../../../static/image/six.jpg",
+            "introduce": "我们为什么走不下去了",
+            "playTimes": 23453,
+            "desc": "6",
+            "radio": true
+        },
+        {
+            "songsUrl": "https://music.163.com/#/playlist?id=376493212",
+            "image": "../../../../static/image/seven.jpg",
+            "introduce": "那些网易评论过十万的歌，不断更新",
+            "playTimes": 234212,
+            "desc": "7"
+        },
+        {
+            "songsUrl": "https://music.163.com/#/dj?id=2060981161",
+            "image": "../../../../static/image/eight.jpg",
+            "introduce": "IMG_5117",
+            "playTimes": 123423,
+            "desc": "8",
+            "radio": true
+        }
+    ],
+    "discs": [
+        {
+            "name": "残酷月光",
+            "singer": "费启鸣",
+            "clickUrl": "https://music.163.com/#/album?id=79317683",
+            "image": "../../../../static/image/Feiqiming.png",
+            "desc": "1"
+        },
+        {
+            "name": "B:COMPLETE",
+            "singer": "AB6IX",
+            "clickUrl": "https://music.163.com/#/album?id=79245849",
+            "image": "../../../../static/image/Complete.png",
+            "desc": "2"
+        },
+        {
+            "name": "Lil Ghost 2.0",
+            "singer": "Lil Ghost 小鬼",
+            "clickUrl": "https://music.163.com/#/album?id=79256820",
+            "image": "../../../../static/image/LilGhost.png",
+            "desc": "3"
+        },
+        {
+            "name": "LoveBird",
+            "singer": "张艺兴",
+            "clickUrl": "https://music.163.com/#/album?id=79164184",
+            "image": "../../../../static/image/LoveBird.png",
+            "desc": "4"
+        },
+        {
+            "name": "路过人间",
+            "singer": "郁可唯",
+            "clickUrl": "https://music.163.com/#/album?id=78844260",
+            "image": "../../../../static/image/Yukewei.png",
+            "desc": "5"
+        },
+        {
+            "name": "I Don't Care",
+            "singer": "Justin Biber",
+            "clickUrl": "https://music.163.com/#/album?id=79012635",
+            "image": "../../../../static/image/DontCare.png",
+            "desc": "6"
+        },
+        {
+            "name": "MARIA",
+            "singer": "黄明昊",
+            "clickUrl": "https://music.163.com/#/album?id=79107800",
+            "image": "../../../../static/image/Maria.png",
+            "desc": "7"
+        },
+        {
+            "name": "Me!",
+            "singer": "Taylor Swift",
+            "clickUrl": "https://music.163.com/#/album?id=78780726",
+            "image": "../../../../static/image/Me.png",
+            "desc": "8"
+        }
+    ]
+}
